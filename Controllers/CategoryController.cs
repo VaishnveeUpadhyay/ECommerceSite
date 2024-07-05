@@ -49,7 +49,7 @@ namespace ECommerceSite.Controllers
         }
 
         /// <summary>
-        /// Add Category
+        /// Add Category 
         /// </summary>
         /// <returns>Created response in case of success</returns>
         [HttpPost]
